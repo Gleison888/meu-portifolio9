@@ -14,11 +14,11 @@ body {
 }
 
 /* Cabeçalho/Banner */
-.bayner {
+.banner {
     text-align: center;
     background-color: #1f1f1f;
     color: white;
-    padding: 40px 20px;
+    padding: 50px 30px;
     border-radius: 8px;
     margin-bottom: 30px;
 }

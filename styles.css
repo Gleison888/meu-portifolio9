@@ -14,7 +14,7 @@ body {
 }
 
 /* Cabeçalho/Banner */
-.banner {
+.bayner {
     text-align: center;
     background-color: #1f1f1f;
     color: white;
@@ -24,7 +24,7 @@ body {
 }
 
 .programador {
-    max-width: 300x;
+    max-width: 300px;
     border-radius: 50%;
     margin-bottom: 20px;
     border: 4px solid white;

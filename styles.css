@@ -24,10 +24,15 @@ body {
 }
 
 .programador {
-    max-width: 50px;
+    width: 50px; /* Tamanho fixo */
+    height: 50px; /* Mantém proporção quadrada */
     border-radius: 50%;
     margin-bottom: 20px;
-    border: 4px solid white;
+    border: 2px solid white; /* Reduzi a borda para não roubar espaço */
+    object-fit: cover; /* Garante que a imagem cubra o espaço sem distorcer */
+    display: block; /* Remove espaçamento extra */
+    margin-left: auto; /* Centraliza */
+    margin-right: auto;
 }
 
 /* Botões de navegação */

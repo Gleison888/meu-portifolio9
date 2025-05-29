@@ -114,3 +114,12 @@ h2 {
 .dark-mode .card {
     background-color: #1e1e1e;
 }
+
+
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+.dark-mode .card {
+    background-color: #1e1e1e;
+}

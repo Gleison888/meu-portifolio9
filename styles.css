@@ -105,3 +105,12 @@ h2 {
         margin: 10px auto;
     }
 }
+
+
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+.dark-mode .card {
+    background-color: #1e1e1e;
+}
